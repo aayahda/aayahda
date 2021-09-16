@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aadhya K Raj</h1>
 <h3 align="center">Just another inquisitive learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayahda&label=Profile%20views&color=0e75b6&style=flat" alt="aayahda" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8195864/screenshots/16437112/media/ef296740827688bbabae702c860a65a6.gif">
 - 🌱 I’m currently learning App Development
 
