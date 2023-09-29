@@ -3,6 +3,8 @@
 <h3 align="center">Just another inquisitive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayahda&label=Profile%20views&color=0e75b6&style=flat" alt="aayahda" /> </p>
+<p>Greetings! I'm thrilled to welcome you to my little corner of GitHub. I'm not just a developer; I'm an avid explorer of the digital realm, seeking out new adventures in code.
+</p>
 
 - 🌱 I’m currently learning App Development
 
