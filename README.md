@@ -6,7 +6,6 @@
 <p>Greetings! I'm thrilled to welcome you to my little corner of GitHub. I'm not just a developer; I'm an avid explorer of the digital realm, seeking out new adventures in code.
 </p>
 
-- 🌱 I’m currently learning App Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
