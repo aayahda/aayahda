@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayahda&label=Profile%20views&color=0e75b6&style=flat" alt="aayahda" /> </p>
 <p>Greetings! I'm thrilled to welcome you to my little corner of GitHub.<br/>
-  I'm not just a developer; I'm an avid explorer of the digital realm, seeking out new adventures in code.
+  I'm not just a developer; I'm an avid explorer of the digital realm, seeking out new adventures in code
 </p>
 
 
