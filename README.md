@@ -1,17 +1,47 @@
-<img src="http://i.imgur.com/2Cs3gmC.gif"/>
-<h1 align="center">Hi 👋, I'm <a href="https://aadhyakraj.vercel.app/" target="blank">Aadhya K Raj </h1>
-<h3 align="center">Just another inquisitive learner</h3>
+<div align="center">
+  <img src="https://64.media.tumblr.com/02c20327bf6b30e73c7a14d8e0a5f124/69eb251e36bb5c3f-55/s1280x1920/1b521d5194e9fa507c92bc2da588ecb7c367da42.gifv" 
+       width="3100" height="3100" 
+       style="border-radius:50%; border: 3px solid #58a6ff"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayahda&label=Profile%20views&color=0e75b6&style=flat" alt="aayahda" /> </p>
-<p>Greetings! I'm thrilled to welcome you to my little corner of GitHub.<br/>
-  I'm not just a developer; I'm an avid explorer of the digital realm, seeking out new adventures in code.
-</p>
+  <h1>Hi 👋, I'm <a href="https://aadhyakraj.vercel.app/">Aadhya K Raj</a></h1>
+  <h3>Associate Consultant @ Oracle Financial Services Software</h3>
+  <p>Building AI-powered developer tools in my free time</p>
 
+  <img src="https://komarev.com/ghpvc/?username=aayahda&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/badge/Oracle%20FSS-2.5%20yrs-F80000?style=flat&logo=oracle&logoColor=white"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔭 About me
+- 💼 Associate Consultant at **Oracle Financial Services Software** — building enterprise banking systems
+- 🤖 Currently building **AI Terminal Assistant** — agentic CLI tool powered by Claude API
+- 🌱 Learning: **MCP · System Design · LeetCode**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aadhyakraj/) · [Portfolio](https://aadhyakraj.vercel.app/)
+
+---
+
+### 🚀 Featured project
+
+**🤖 [AI Terminal Assistant](https://github.com/aayahda/ai-terminal-assistant)**
+> Agentic CLI tool that converts natural language to shell commands — with web search,
+> command history, risk scoring, and OS-aware execution
+
+`Python` `Claude API` `Click` `SQLite` `MCP`
+
+---
+
+### 🛠 Languages and tools
 <p align="left">
-<a href="https://linkedin.com/in/aadhya-raj-7b27b61b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadhya-raj-7b27b61b8" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
