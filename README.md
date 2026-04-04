@@ -27,7 +27,7 @@
 > Agentic CLI tool that converts natural language to shell commands — with web search,
 > command history, risk scoring, and OS-aware execution
 
-`Python` `Claude API` `Click` `SQLite` `MCP`
+`Python` `Claude API` `Click` `MCP`
 
 ---
 
