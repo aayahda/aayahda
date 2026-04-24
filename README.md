@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/02c20327bf6b30e73c7a14d8e0a5f124/69eb251e36bb5c3f-55/s1280x1920/1b521d5194e9fa507c92bc2da588ecb7c367da42.gifv" 
-       width="3100" height="3100" 
+       width="1200" height="600" 
        style="border-radius:50%; border: 3px solid #58a6ff"/>
 
   <h1>Hi 👋, I'm <a href="https://aadhyakraj.vercel.app/">Aadhya K Raj</a></h1>
